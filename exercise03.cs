@@ -8,13 +8,17 @@ class CatingExemplo
         return resultadoConvertido;
     }
 
-    public void Transformar(object obj)
+    public string Transformar(object obj)
     {
-        string convercao = (string)obj;
+        string conversao = (string)obj;
 
-        if(convercao)
+        if(conversao is string)
         {
-            Console.WriteLine("Conversão não foi realizada.");
+            return conversao;
+        } else
+        {
+            Console.WriteLine("Conversão não realizada!");
+            return null;
         }
     }
 }
