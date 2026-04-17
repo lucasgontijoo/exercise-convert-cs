@@ -1,0 +1,4 @@
+C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.csproj.CoreCompileInputs.cache
