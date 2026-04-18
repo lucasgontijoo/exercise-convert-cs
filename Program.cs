@@ -1,5 +1,7 @@
-﻿class Program {
-    public static void Main (string[] args) {
+﻿class Program
+{
+    public static void Main(string[] args)
+    {
         Console.WriteLine("""
             =======================================================
                     SISTEMA DE EXERCÍCIOS - OOP & TIPOS
@@ -16,13 +18,12 @@
         );
         string opt = Console.ReadLine();
 
-        switch(opt)
+        switch (opt)
         {
             case "1":
-                for(int i = 0; i<3; i++)
-                {
-                    
-                }
+                Operacoes op = new Operacoes();
+                
+
                 break;
 
             case "2":
@@ -30,14 +31,14 @@
 
             case "3":
                 break;
-            
+
             case "4":
                 break;
 
             case "0":
                 Console.WriteLine("Saindo...");
                 break;
-            
+
             default:
                 Console.WriteLine("Escolha uma dentre as opções acima.");
                 break;

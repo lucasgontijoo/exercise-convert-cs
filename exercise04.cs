@@ -1,38 +1,38 @@
-// public abstract class Forma
-// {
-//     public virtual void CalcularArea()
-//     {
-        
-//     }
-// }
+public abstract class Forma
+{
+    public virtual void CalcularArea()
+    {
 
-// class Retangulo : Forma
-// {
-//     public int Altura {get; set;}
-//     public int Largura {get; set;}
+    }
+}
 
-//     public Retangulo(int altura, int largura)
-//     {
-//         Altura = altura;
-//         Largura = largura;
-//     }
+class Retangulo : Forma
+{
+    public int Altura { get; set; }
+    public int Largura { get; set; }
 
-//     public override void CalcularArea(int altura, int largura)
-//     {
-//         int area = altura*largura;
-//     }
-// }
+    public Retangulo(int altura, int largura)
+    {
+        Altura = altura;
+        Largura = largura;
+    }
 
-// class Circulo : Forma
-// {
-//     public int Raio {get; set;}
+    public override void CalcularArea()
+    {
+        int area = Altura * Largura;
+    }
+}
 
-//     public Circulo(int raio)
-//     {
-//         Raio = raio;
-//     }
-//     public override void CalcularArea(int raio)
-//     {
-//         double area = Math.Pow(raio, 2) * Math.PI;
-//     }
-// }
+class Circulo : Forma
+{
+    public int Raio { get; set; }
+
+    public Circulo(int raio)
+    {
+        Raio = raio;
+    }
+    public override void CalcularArea()
+    {
+        double area = Math.Pow(Raio, 2) * Math.PI;
+    }
+}

@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\atividade-poo\\atividade-poo.csproj": {}
+    "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\atividade-poo\\atividade-poo.csproj": {
+    "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\atividade-poo\\atividade-poo.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj",
         "projectName": "atividade-poo",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\atividade-poo\\atividade-poo.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\atividade-poo\\obj\\",
+        "projectPath": "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj",
+        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
