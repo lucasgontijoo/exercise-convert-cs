@@ -20,6 +20,7 @@ class Retangulo : Forma
     public override void CalcularArea()
     {
         int area = Altura * Largura;
+        Console.WriteLine(area);
     }
 }
 
@@ -34,5 +35,6 @@ class Circulo : Forma
     public override void CalcularArea()
     {
         double area = Math.Pow(Raio, 2) * Math.PI;
+        Console.WriteLine(area);
     }
 }

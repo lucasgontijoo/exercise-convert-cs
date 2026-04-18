@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj": {}
+    "C:\\Users\\mateu\\Downloads\\Nova pasta\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj": {
+    "C:\\Users\\mateu\\Downloads\\Nova pasta\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\Downloads\\Nova pasta\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj",
         "projectName": "atividade-poo",
-        "projectPath": "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj",
+        "projectPath": "C:\\Users\\mateu\\Downloads\\Nova pasta\\Exercicio2 -P2\\exercise-convert-cs\\atividade-poo.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\OneDrive\\Tudo\\ACADÊMICO\\PUC - SISTEMAS DE INFORMAÇÃO\\MATÉRIAS\\POO\\Exercicio2 -P2\\exercise-convert-cs\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\Downloads\\Nova pasta\\Exercicio2 -P2\\exercise-convert-cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config"

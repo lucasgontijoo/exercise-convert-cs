@@ -2,3 +2,33 @@ C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo
 C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.AssemblyInfoInputs.cache
 C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.AssemblyInfo.cs
 C:\Users\lucas\OneDrive\Documentos\atividade-poo\obj\Debug\net10.0\atividade-poo.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.exe
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.deps.json
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.runtimeconfig.json
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.dll
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.pdb
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.sourcelink.json
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.dll
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\refint\atividade-poo.dll
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.pdb
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Tudo\ACADÊMICO\PUC - SISTEMAS DE INFORMAÇÃO\MATÉRIAS\POO\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\ref\atividade-poo.dll
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.exe
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.deps.json
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.runtimeconfig.json
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.dll
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\bin\Debug\net10.0\atividade-poo.pdb
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.AssemblyInfoInputs.cache
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.AssemblyInfo.cs
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.sourcelink.json
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.dll
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\refint\atividade-poo.dll
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.pdb
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\atividade-poo.genruntimeconfig.cache
+C:\Users\mateu\Downloads\Nova pasta\Exercicio2 -P2\exercise-convert-cs\obj\Debug\net10.0\ref\atividade-poo.dll

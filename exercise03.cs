@@ -1,8 +1,8 @@
-class CatingExemplo
+class CastingExemplo
 {
     public int Dividir(int a, float b)
     {
-        float resultado = a/b;
+        float resultado = a / b;
         int resultadoConvertido = (int)resultado;
 
         return resultadoConvertido;
@@ -10,15 +10,16 @@ class CatingExemplo
 
     public string Transformar(object obj)
     {
-        string conversao = (string)obj;
 
-        if(conversao is string)
+        try
         {
+            string conversao = (string)obj;
             return conversao;
-        } else
+        }
+        catch (InvalidCastException)
         {
             Console.WriteLine("Conversão não realizada!");
-            return null;
+            return null!;
         }
     }
 }
